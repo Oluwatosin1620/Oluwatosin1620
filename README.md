@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwatosin1620
 - 👀 I’m interested in Data Analysis: Data entry, Data Cleaning, Summarization and Visualization, Storytelling
-- 🌱 I’m currently learning SQL database
+- 🌱 I’m competent in using tools like Excel, Pivot Tables, Power Bi, R, SQL database
 - 💞️ I’m looking to collaborate on Data visualization and storytelling challenges, Data cleaning, writing SQL queries, Growth mindset
 - 📫 How to reach me ...https://www.linkedin.com/in/oluwatosinpopoola1620/, popoolatosin1620@gmail.com
 - 😄 Pronouns: ...she/her
